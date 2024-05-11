@@ -1,4 +1,4 @@
-### Quantum Neural Network and Artificial Neural Network Binary Classification
+### Comparison of Quantum Neural Network and Artificial Neural Network on Binary Classification
 
 This repository contains implementations of Quantum Neural Network (QNN) and Artificial Neural Network (ANN) models for binary classification tasks using the MNIST dataset. The QNN implementation utilizes layerwise learning techniques inspired by the work of Oyarce (2021) and is built using the Pennylane-PyTorch library.
 
